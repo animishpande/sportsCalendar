@@ -28,6 +28,7 @@ The Sports Calendar project is a web application that displays the schedules and
 1. Run the Streamlit application:
     ```bash
     streamlit run app.py
+    python -m streamlit run app.py
     ```
 2. Open your web browser and go to `http://localhost:8501` to view the Sports Calendar.
 
